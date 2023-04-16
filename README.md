@@ -5,7 +5,7 @@ Full Stack Developer
 --------------------
 
 * 🌍  I'm based in İzmir,Turkey
-* 🖥️  See my portfolio at [https://oguzhanbilgi.live](http://oguzhanbilgi.live)
+* 🖥️  See my portfolio at [https://oguzhanbilgi.me](http://oguzhanbilgi.me)
 * ✉️  You can contact me at [oguzhanbilgi35@gmail.com](mailto:oguzhanbilgi35@gmail.com)
 
 <a href="https://www.twitter.com/Kskle555" target="_blank" rel="noreferrer"><img
